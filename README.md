@@ -1,10 +1,8 @@
 # Matthieu VIGUIER
 
-_Me and first my first computer are kids of 1980's._
+_Kid of 1980's._
 
 ---
-
-Why I moved from GitHub to [Gitlab]()
 
 ---
 [curriculum vitae](https://www.google.fr)
